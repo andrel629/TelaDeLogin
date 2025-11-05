@@ -25,7 +25,7 @@ O desenvolvimento deste componente teve como pilares:
 | ![Preview da tela de login em um desktop](/src/assets/TelaDelogin.png) | ![Preview da tela de login em um celular](/src/assets/TelaMobile.png) |
 | *Uma interface limpa e espaçosa para desktops.* | *Design totalmente adaptado para telas menores.* |
 
-*(**Nota:** Substitua os `link-para-sua-imagem` pelos prints da sua aplicação!)*
+
 
 ---
 
